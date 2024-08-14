@@ -1,0 +1,51 @@
+[
+    {
+      "type": "Assignment -1",
+      "course": "Foundations of User Experience Design",
+      "due": "5 June 2024",
+      "faculty": "Same Jhon",
+      "status": "Done",
+      "facultyImage": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp" 
+    },
+    {
+      "type": "Quiz - 2",
+      "course": "Foundations of User Experience Design",
+      "due": "5 Aug 2024",
+      "faculty": "Jhon Ab",
+      "status": "Coming",
+      "facultyImage": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
+    },
+    {
+      "type": "Last Class",
+      "course": "Foundations of User Experience Design",
+      "due": "5 June 2024",
+      "faculty": "Kabir Same",
+      "status": "Done",
+      "facultyImage": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
+    },
+    {
+      "type": "Quiz - 2",
+      "course": "Foundations of User Experience Design",
+      "due": "5 June 2024",
+      "faculty": "Lee Jhon",
+      "status": "Coming",
+      "facultyImage": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
+    },
+    {
+      "type": "Assignment -4",
+      "course": "Foundations of User Experience Design",
+      "due": "5 June 2024",
+      "faculty": "Abraham Leo",
+      "status": "Done",
+      "facultyImage": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
+    },
+    {
+      "type": "Last Class",
+      "course": "Foundations of User Experience Design",
+      "due": "5 June 2024",
+      "faculty": "Atik Saw",
+      "status": "Done",
+      "facultyImage": "https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
+    }
+  ]
+  
